@@ -1,0 +1,11 @@
+英文版
+翻墙成功+海外新闻：http://safevpn.online/html/vpn_S_o_en.html
+翻墙成功+国内新闻：http://safevpn.online/html/vpn_S_d_en.html
+翻墙不成功+海外新闻：https://safevpn.online/html/vpn_F_o_en.html
+翻墙不成功+国内新闻：https://safevpn.online/html/vpn_F_d_en.html
+
+中文版
+翻墙成功+海外新闻：http://safevpn.online/html/vpn_S_o_zh.html
+翻墙成功+国内新闻：http://safevpn.online/html/vpn_S_d_zh.html
+翻墙不成功+海外新闻：https://safevpn.online/html/vpn_F_o_zh.html
+翻墙不成功+国内新闻：https://safevpn.online/html/vpn_F_d_zh.html
