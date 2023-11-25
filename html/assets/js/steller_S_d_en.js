@@ -56,7 +56,7 @@ function move(){
 			return true;
 		}
 		else{
-			alert("Did not choose location!");
+			alert("You must choose a location to connect!");
 			return false;
 		}
 	}
