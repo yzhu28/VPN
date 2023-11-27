@@ -11491,9 +11491,20 @@ pre {
   font-weight: bold;
 }
 
-.header .container .infos p {
-  margin-top: -5px;
-  font-size: 22px;
+.header .container .Resultinfos .subtitle {
+  margin-bottom: 0;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.header .container .Resultinfos .title {
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 49px;
+  font-weight: bold;
 }
 
 .header .container .infos .btn {
@@ -11601,6 +11612,13 @@ pre {
   .header .widget .widget-item p {
     font-size: 13px;
   }
+  .section {
+    padding: 20rem 0; /* Adjust padding for smaller screens */
+  }
+
+  .col-md-5 {
+    width: 100%; /* Make the column take full width on small screens */
+  }
 }
 
 .header-title {
@@ -11636,7 +11654,7 @@ pre {
 
 .section {
   position: relative;
-  padding: 5rem 0;
+  padding: 12rem 0;
 }
 
 .section:nth-child(even) {
