@@ -52,7 +52,7 @@ function move(){
 	}
 
 	function checkLocation(){
-		if(currentLocation!= '地点'){
+		if(currentLocation!= '节点'){
 			return true;
 		}
 		else{
